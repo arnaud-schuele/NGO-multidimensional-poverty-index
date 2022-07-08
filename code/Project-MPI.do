@@ -1,7 +1,7 @@
-*PASAB-MPI DO-FILE (STATA)
+*Project-MPI DO-FILE (STATA)
 
 *Automated process for identification and aggregation, with respect to OPHI (2017)
-*Created to be used with the Excel data set from the PASAB-MPI
+*To be used with the Excel data set from the Project-MPI
 
 * 1.Translate the variables into English
 
